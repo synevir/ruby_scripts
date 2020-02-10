@@ -1,0 +1,1 @@
+/home/reebok/Ruby/analizer.rb
